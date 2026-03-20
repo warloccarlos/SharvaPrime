@@ -1,15 +1,14 @@
 # SharvaPrime
 ### Malware Hunter Sentinel Engine
 
+Sharva Prime is currently a signature-based scanner using MalwareBazaar hashes. 
+
+It is designed for educational use and transparent security analysis.
+
 An Open Source Malware Hunter developed in Python
 
-This is a cross platform malware hunter
-
-Build it for your own platform and enjoy
-
 ## Sharva meaning
-Sharva is the ultimate Archer, personification of The Lord Shiva
-
+Sharva is the Divine Archer, a personification of The Lord Shiva
 
 
 ### Hope together we can build something upon this
