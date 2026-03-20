@@ -2,13 +2,15 @@
 ### Malware Hunter Sentinel Engine
 
 An Open Source Malware Hunter developed in Python
+
 This is a cross platform malware hunter
+
 Build it for your own platform and enjoy
 
-### Sharva, derives meaning from The Lord Shiva.
+## Sharva, derives meaning from The Lord Shiva.
 Sharva is the ultimate Archer warrior, personification of The Lord Shiva
 
-#### Hope together we can build something upon this
+### Hope together we can build something upon this
 Right now scan with Admin/Root privilege is not possible
 C:/Windows and /proc is off-limits
 
