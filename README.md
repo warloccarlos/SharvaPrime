@@ -11,8 +11,9 @@ Build it for your own platform and enjoy
 Sharva is the ultimate Archer warrior, personification of The Lord Shiva
 
 ### Hope together we can build something upon this
-Right now scan with Admin/Root privilege is not possible
-C:/Windows and /proc is off-limits
+Scan with Admin/Root privilege not implemented as of now
+
+Presently, C:/Windows and /proc is off-limits
 
 #### Execution
 python app.py and viola!
