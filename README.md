@@ -7,8 +7,10 @@ This is a cross platform malware hunter
 
 Build it for your own platform and enjoy
 
-## Sharva, derives meaning from The Lord Shiva.
-Sharva is the ultimate Archer warrior, personification of The Lord Shiva
+## Sharva meaning
+Sharva is the ultimate Archer, personification of The Lord Shiva
+
+
 
 ### Hope together we can build something upon this
 Scan with Admin/Root privilege not implemented as of now
